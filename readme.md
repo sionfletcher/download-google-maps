@@ -1,0 +1,1 @@
+Download some static images from Google Maps based on locations (student project)
